@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 64" width="330" height="64" role="img" aria-label="B3 Tecnologias">
+  <defs>
+    <linearGradient id="b3g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2563FF"/>
+      <stop offset="1" stop-color="#14C8EB"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#b3g)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8 8V56M8 8H22a12 12 0 0 1 0 24H8M8 32H24a12 12 0 0 1 0 24H8"/>
+    <path d="M46 8H60a12 12 0 0 1 0 24H53M53 32H62a12 12 0 0 1 0 24H46"/>
+  </g>
+  <circle cx="90" cy="52" r="5.5" fill="#14C8EB"/>
+  <rect x="112" y="12" width="2" height="40" rx="1" fill="#0A1024" opacity=".15"/>
+  <text x="132" y="42" fill="#0A1024" font-family="Sora, 'Inter', 'Segoe UI', Arial, sans-serif" font-size="29" font-weight="600" letter-spacing="-0.5">Tecnologias</text>
+</svg>
